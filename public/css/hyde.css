@@ -248,3 +248,28 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Custom */
+.theme-base-cu .sidebar {
+  background-color: #ff3c3e;
+}
+.theme-base-cu .content a,
+.theme-base-cu .related-posts li a:hover {
+  color: #ff3c3e;
+}
+
+.theme-base-cu .post-title a {
+    color:#303030 !important;
+}
+
+.float-right
+{
+    float:right;
+    margin-left:15px;
+}
+
+.float-left
+{
+    float:left;
+    margin-right:15px;
+}
