@@ -3,28 +3,12 @@ layout: page
 title: Om mig
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Student på Chalmers Tekniska Högskola där jag läser civilingenjörslinjen industriell ekonomi. Webbentusiast sedan ung ålder, och i 2010 startade jag den egna webbutvecklingsbyårn WIWO (därav domännamnet) och jobbade bland annat med DreamHack i flera projekt. I 2013 startade jag tillsammans med skolkamrater e-learningföretaget <a href="http://lurn.me">Lurn</a>, där jag nu leder utvecklingen av framtidens läromedel för skolor och företag.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+På bloggen skriver jag lite om allt, men främst med fokus på informationsteknik och ännu mer fokus på webbrelaterad teknik.
 
-There are currently two themes built on Poole:
+Jag går att nå på lite olika sätt, vare sig det gäller frilansarbete eller gött snack.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- På Twitter under namnet <a href="http://twitter.com/wiwofone">@wiwofone</a>.
+- På mail via <a href="mailto:shahin@wiwo.se">shahin@wiwo.se</a>.
+- Eller på LinkedIn via min <a href="http://se.linkedin.com/in/shahinzarrabi/">profil</a>.
