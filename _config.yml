@@ -6,19 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Shahin
+tagline:          'En promenad runt internet'
+description:      'Bloggar om IT och hur det p&aring;verkar och f&ouml;r&auml;ndrar samh&auml;llet dag f&ouml;r dag.'
+url:              http://wiwo.se
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Shahin Zarrabi'
+  url:            https://twitter.com/wiwofone
 
-paginate:         5
-
-# Custom vars
-version:          2.0.0
-
-github:
-  repo:           https://github.com/poole/hyde
+paginate:         1
