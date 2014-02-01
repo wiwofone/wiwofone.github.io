@@ -13,4 +13,4 @@ Jag går att nå på lite olika sätt, vare sig det gäller frilansarbete eller 
 - På mail via <a href="mailto:shahin@wiwo.se">shahin@wiwo.se</a>.
 - Eller på LinkedIn via min <a href="http://se.linkedin.com/in/shahinzarrabi/">profil</a>.
 
-wiwo.se är byggd med <a href="http://jekyllrb.com/">Jekyll</a> med ett egenmodifierat tema baserat på <a href="https://github.com/poole/hyde">Hyde</a>. Sajten hostas på <a href="http://pages.github.com/">GitHub Pages</a>.
+wiwo.se är byggd med <a href="http://jekyllrb.com/">Jekyll</a> med ett egenmodifierat tema baserat på <a href="https://github.com/poole/hyde">Hyde</a>. Sajten hostas på <a href="http://pages.github.com/">GitHub Pages</a>. Källkoden kan hittas <a href="https://github.com/wiwofone/wiwofone.github.io">här</a>.
