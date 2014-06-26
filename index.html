@@ -3,11 +3,26 @@ layout: default
 title: Home
 ---
 
+{% for post in paginator.posts %}
 <div class="post">
   <h1 class="post-title">{{ post.title }}</h1>
   <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
   {{ post.content }}
 </div>
+<div class="comments">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'shahinzarrabi';
+        
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+{% endfor %}
 
 <div class="pagination">
   {% if paginator.next_page %}
