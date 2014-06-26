@@ -21,12 +21,12 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">&Auml;ldre</a>
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">Äldre</a>
   {% else %}
-    <span class="pagination-item older">&Auml;ldre</span>
+    <span class="pagination-item older">Äldre</span>
   {% endif %}
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
+    {% if paginator.page == 1 %}
       <a class="pagination-item newer" href="/">Nyare</a>
     {% else %}
       <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Nyare</a>
