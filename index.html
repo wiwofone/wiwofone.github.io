@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ page.date | date: "%Y-%m-%d" }}</span>
+    <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
 
     {{ post.content }}
   </div>
@@ -21,17 +21,17 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">&Auml;ldre</a>
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">F&ouml;rra</a>
   {% else %}
-    <span class="pagination-item older">&Auml;ldre</span>
+    <span class="pagination-item older">F&ouml;rra</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Nyare</a>
+      <a class="pagination-item newer" href="/">N&auml;sta</a>
     {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Nyare</a>
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">N&auml;sta</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Nyare</span>
+    <span class="pagination-item newer">N&auml;sta</span>
   {% endif %}
 </div>
